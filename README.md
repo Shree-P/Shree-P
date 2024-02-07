@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shree-P
-- 👀 I’m interested in learning Machine Learning. 
+- 👀 I’m interested in learning Business Alaytics. 
 - 🌱 I’m currently learning Data Science and its applications
 - 💞️ I’m looking to collaborate on new projects.
 
